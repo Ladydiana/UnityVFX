@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5280981855789893803}
   - component: {fileID: 5280981855789893800}
   m_Layer: 0
-  m_Name: Fountain Faucet
+  m_Name: Fountain Faucet 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
